@@ -76,7 +76,7 @@ newWin.document.write(`
   </head>
   <body>
     <div id="print-ui">
-      <span style="color: #333; font-size: 14px; font-weight: bold;">PDF Taiyar Hai!</span>
+      <span style="color: #333; font-size: 14px; font-weight: bold;">PDF Is Ready!</span>
       <button id="pBtn" class="btn btn-print">Print PDF</button>
       <button id="cBtn" class="btn btn-close">Close</button>
     </div>
